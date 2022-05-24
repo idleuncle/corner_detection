@@ -2,12 +2,6 @@
 
 
 
-  代码内容说明（启动训练及推理的方式、必要注释等）；
-
-B.    模型构建思路及调优过程（可具体包括：思路框架图、思路步骤详述、模型应用+调优过程）；
-
-C.    若参考他人代码，请在比赛报告中附上链接以便审查。
-
 比赛官网： https://aistudio.baidu.com/aistudio/competition/detail/207/0/introduction
 
 Baseline: https://aistudio.baidu.com/aistudio/projectdetail/3861946
