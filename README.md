@@ -63,6 +63,8 @@ python train.py
         ./results
 ```
 
+模型权重链接: https://pan.baidu.com/s/18IDmC_KMsqryX4FQN5e-8g?pwd=dibz 提取码: dibz 
+
 
 
 ## 打包上传结果
